@@ -35,6 +35,18 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Hartford",
+      "country": "United States of America (the)",
+      "emoji": "🇺🇸",
+      "date": "2023-11-18T17:51:17.416Z",
+      "notes": "Hartford has it!",
+      "position": {
+        "lat": "41.77688059990129",
+        "lng": "-72.6629412174225"
+      },
+      "id": 98443198
     }
   ]
 }
